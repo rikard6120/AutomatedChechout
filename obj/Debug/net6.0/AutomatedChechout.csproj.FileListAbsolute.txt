@@ -1,0 +1,15 @@
+C:\Users\rikar\Documents\Kod\AutomatedChechout\bin\Debug\net6.0\AutomatedChechout.exe
+C:\Users\rikar\Documents\Kod\AutomatedChechout\bin\Debug\net6.0\AutomatedChechout.deps.json
+C:\Users\rikar\Documents\Kod\AutomatedChechout\bin\Debug\net6.0\AutomatedChechout.runtimeconfig.json
+C:\Users\rikar\Documents\Kod\AutomatedChechout\bin\Debug\net6.0\AutomatedChechout.dll
+C:\Users\rikar\Documents\Kod\AutomatedChechout\bin\Debug\net6.0\AutomatedChechout.pdb
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.csproj.AssemblyReference.cache
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.AssemblyInfoInputs.cache
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.AssemblyInfo.cs
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.csproj.CoreCompileInputs.cache
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.dll
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\refint\AutomatedChechout.dll
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.pdb
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\AutomatedChechout.genruntimeconfig.cache
+C:\Users\rikar\Documents\Kod\AutomatedChechout\obj\Debug\net6.0\ref\AutomatedChechout.dll
